@@ -1,0 +1,1 @@
+Pay transaction to 5555, amount is equal to 500.0.
